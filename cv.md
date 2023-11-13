@@ -28,7 +28,7 @@ function multiply(a, b){
 
 ## Work experience ##
 
-
+There is no experience in this direction
 
 ## Education ##
 - Michurinsk State Agrarian University
