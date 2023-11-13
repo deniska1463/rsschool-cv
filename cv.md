@@ -1,9 +1,4 @@
 # **Denis Schetinin**
-
-<table>
-<tr> 
-<td width=60% valign=top>
-
 ## Contacts ##
 - Phone: *+7 999 621-71-91*
 - E-mail: *deniska1463@gmail.com*
@@ -38,11 +33,7 @@ There is no experience in this direction
 - Russian (in perfection)
 - English (A2)
 
-</td>
-<td valign=top>
 
-![Текст описания](/img/photo.jpg)
 
-</td>
-</tr>
-</table>
+
+
